@@ -11,7 +11,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <portlet:defineObjects />
 
-This is the <b>Friendly Url Poc</b> portlet in View mode.
+This is the <b>Instagram Integration</b> portlet in View mode.
 <br>
 <portlet:actionURL var="actionURL">
 	<portlet:param name="mvcPath" value="/edit.jsp"/>
